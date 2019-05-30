@@ -1,6 +1,6 @@
 # picShare
 
-### Environment: - Java EE, Spring Boot, Spring data JPA, Facebook Graph API, MVC, MySQL, AWS, RDS, EC2
+### Environment: - Java EE, Spring Boot, Spring REST, Spring data JPA, Facebook Graph API, MVC, MySQL, AWS, RDS, EC2
 
 - Developed a social networking platform to share image with annotation as post - an audio or text
 - Integrated Facebook Graph API, provided Login with Facebook functionality and fetched friends from Facebook account
